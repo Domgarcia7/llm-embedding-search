@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Jason's Deli",
+        "address": "1604 W University Dr, Edinburg, TX 78539",
+        "rating": "3.9",
+        "description of restaurant": "Jason's Deli is a popular casual restaurant chain known for its wide array of fresh and wholesome options. Their menu features a variety of sandwiches, salads, soups, and wraps, with a focus on using high-quality ingredients, as well as a selection of beverages including soft drinks, iced tea, and coffee."
+    },
+    {
+        "name": "Taco Palenque",
+        "address": "1414 W University Dr, Edinburg, TX 78539",
+        "rating": "3.4",
+        "description of restaurant": "Taco Palenque is a beloved Mexican fast-food chain that offers a delicious selection of authentic Mexican street food. Their menu features a variety of tacos, burritos, quesadillas, and traditional Mexican dishes, and they also offer a range of soft drinks, horchata, and aguas frescas for refreshing beverages."
+    },
+    {
+        "name": "University Drafthouse",
+        "address": "2405 W University Dr, Edinburg, TX 78539",
+        "rating": "4.0",
+        "description of restaurant": "University Drafthouse is a lively sports bar and grill with a vibrant atmosphere. They serve an array of classic pub food, including burgers, wings, nachos, and a variety of sandwiches, all complemented by an extensive selection of draft beers, cocktails, and non-alcoholic beverages to enjoy while watching your favorite sports games."
+    },
+    {
+        "name": "Panda Express",
+        "address": "2201 W University Dr, Edinburg, TX, 78539",
+        "rating": "4.7",
+        "description of restaurant": "Panda Express is a popular fast-food restaurant known for its flavorful Chinese-American cuisine. Their menu features a range of dishes, including Orange Chicken, Beijing Beef, and Kung Pao Chicken, served with sides like fried rice or chow mein, as well as a selection of beverages, including soft drinks and iced tea."
+    },    
+    {
+        "name": "McDonalds",
+        "address": "2120 W University Dr, Edinburg, TX 78539",
+        "rating": "2.0",
+        "description of restaurant": "McDonald's is a globally recognized fast-food chain that offers a menu of iconic burgers, such as the Big Mac and Quarter Pounder, along with a variety of chicken sandwiches, salads, and breakfast items. They also serve a wide range of beverages, including soft drinks, coffee, and milkshakes, making it a convenient choice for fast, familiar comfort food."
+    },
+    {
+        "name": "Wingstop",
+        "address": "2405 W University Dr Ste D, Edinburg, TX 78539",
+        "rating": "3.0",
+        "description of restaurant": "Wingstop is a popular fast-casual restaurant known for its mouthwatering chicken wings and flavorful sauces. Their menu features a variety of wing styles, from classic to boneless, along with a choice of signature sauces, and they offer a selection of soft drinks, sides like fries and coleslaw, and dipping sauces to complete the meal."
+    },
+    {
+        "name": "Raising Cane's Chicken Fingers",
+        "address": "718 W University Dr, Edinburg, TX 78539",
+        "rating": "4.6",
+        "description of restaurant": "Raising Cane's Chicken Fingers is a fast-food chain renowned for its focus on serving high-quality chicken tenders. Their straightforward menu primarily includes chicken fingers, crinkle-cut fries, Texas toast, and their signature Cane's sauce, with a variety of soft drinks and freshly brewed sweet tea to accompany the meal."
+    },
+    {
+        "name": "Pizza Hut",
+        "address": "2253 W. University Dr, Edinburg, TX 78539",
+        "rating": "4.3",
+        "description of restaurant": "Pizza Hut is a popular pizza chain known for its wide selection of pizza options, including classics like pepperoni and specialty creations like the Stuffed Crust and Pan Pizzas. In addition to pizza, they offer pasta dishes, wings, and a variety of beverages, such as soft drinks, and sometimes even dessert options like cinnamon sticks or chocolate chip cookie pizza."
+    },
+    {
+        "name": "Whataburger",
+        "address": "1812 W University Dr, Edinburg, TX 78539",
+        "rating": "4.5",
+        "description of restaurant": "Whataburger is a well-loved fast-food chain renowned for its flavorful burgers, particularly the Whataburger, and their famous orange-and-white-striped A-frame restaurants. Their menu features a variety of burgers, chicken sandwiches, breakfast items, and sides, accompanied by a range of soft drinks, shakes, and other beverages."
+    },
+    {
+        "name": "Chick-fil-A",
+        "address": "1360 W University Dr, Edinburg, TX 78539",
+        "rating": "4.1",
+        "description of restaurant": "Chick-fil-A is a popular fast-food chain recognized for its delicious chicken-based menu. Their offerings include a variety of chicken sandwiches, nuggets, salads, and breakfast items, and they serve a range of beverages such as soft drinks, lemonade, and iced tea."
+    },
+    {
+        "name": "La Olla Mexican Restaurant",
+        "address": "424 E University Dr, Edinburg, TX 78539",
+        "rating": "3.9",
+        "description of restaurant": "La Olla Mexican Restaurant is a cozy and authentic Mexican eatery, offering a delightful selection of traditional Mexican dishes. Their menu features favorites like tacos, enchiladas, burritos, and tamales, and they also serve a variety of beverages including margaritas, horchata, and classic Mexican sodas, providing a truly immersive Mexican dining experience."
+    },
+    {
+        "name": "Golden China Restaurant",
+        "address": "401 E University Dr, Edinburg, TX 78539",
+        "rating": "4.0",
+        "description of restaurant": "Golden China Restaurant is a popular Chinese eatery known for its diverse menu of classic Chinese dishes. They offer a wide range of options, including General Tso's chicken, lo mein, and sweet and sour pork, and they typically serve a selection of soft drinks, Chinese teas, and sometimes offer alcoholic beverages like beer and wine."
+    },
+    {
+        "name": "Khans Grill",
+        "address": "1346 W University Dr, Edinburg, TX 78539",
+        "rating": "4.5",
+        "description of restaurant": "Khan's Grill is an inviting restaurant that specializes in Mongolian barbecue-style dining. Customers can create their own stir-fry dishes by selecting from a variety of fresh meats, vegetables, sauces, and noodles, and they often provide a range of soft drinks, tea, and water to accompany the meal."
+    },
+    {
+        "name": "The Pizzeria",
+        "address": "1318 W University Dr, Edinburg, TX 78539",
+        "rating": "3.8",
+        "description of restaurant": "The Pizzeria is a cozy and welcoming eatery that specializes in crafting delectable pizzas. They offer a variety of pizza options, from classic margherita to unique specialty pies, and typically serve a selection of beverages including soft drinks, bottled water, and sometimes beer or wine to complement your pizza experience."
+    },
+    {
+        "name": "Acapulco Barra Vieja",
+        "address": "1102 W University Dr, Edinburg, TX 78539",
+        "rating": "4.5",
+        "description of restaurant": "Acapulco Barra Vieja is a vibrant Mexican restaurant known for its coastal-inspired cuisine. Their menu features a variety of seafood dishes, grilled meats, and traditional Mexican specialties, often accompanied by a selection of beverages including margaritas, Mexican beer, and a range of soft drinks to enhance the dining experience by the sea."
+    },
+    {
+        "name": "Sidebar",
+        "address": "215 E University Dr, Edinburg, TX 78539",
+        "rating": "4.5",
+        "description of restaurant": "Known for its modern American cuisine and inviting ambiance. Their menu offers a diverse range of dishes, including burgers, sandwiches, salads, and seafood, and they provide an extensive selection of cocktails, craft beers, and wine to complement the dining experience."
+    },
+    {
+        "name": "Dairy Queen",
+        "address": "1220 E University Dr, Edinburg, TX 78539",
+        "rating": "3.8",
+        "description of restaurant": "Dairy Queen, a beloved fast-food chain, is renowned for its delectable soft-serve ice cream and classic American fast food. Their menu includes items such as burgers, chicken strips, hot dogs, and of course, a wide variety of ice cream treats like Blizzards, sundaes, and shakes, along with soft drinks and their signature orange Julius drinks."
+    },
+    {
+        "name": "Dennys",
+        "address": "2301 W University Dr, Edinburg, TX 78539",
+        "rating": "4.0",
+        "description of restaurant": "Denny's is a popular diner-style restaurant chain known for its 24/7 service and diverse menu offerings. They serve a wide range of American comfort food, including breakfast items like pancakes and omelets, as well as burgers, sandwiches, and classic diner dishes, with a variety of beverages such as coffee, soft drinks, and milkshakes available to accompany your meal."
+    },
+    {
+        "name": "Chili's Grill & Bar",
+        "address": "2303 University Dr, Edinburg, TX 78539",
+        "rating": "2.3",
+        "description of restaurant": "Chili's Grill & Bar is a well-known casual dining restaurant chain recognized for its Southwestern-inspired cuisine and inviting atmosphere. Their menu features a variety of dishes, including burgers, fajitas, ribs, and Tex-Mex classics, and they offer a range of beverages, such as cocktails, beer, and soft drinks, making it a popular choice for a combination of American and Mexican flavors."
+    },
+    {
+        "name": "Sonic Drive-In",
+        "address": "2222 W University Dr, Edinburg, TX 78539",
+        "rating": "4.0",
+        "description of restaurant": "Sonic Drive-In is a popular fast-food chain famous for its retro drive-in dining experience and a diverse menu of burgers, hot dogs, and other American fast food staples. In addition to classic fast food, they offer a unique feature: carhops who deliver your food, and they serve a variety of drinks, including soft drinks, slushes, milkshakes, and Sonic's famous cherry limeades."
+    },
+    {
+        "name": "Starbucks",
+        "address": "2720 W University Dr, Edinburg, TX 78539",
+        "rating": "4.1",
+        "description of restaurant": "Starbucks is a renowned global coffeehouse chain recognized for its extensive coffee menu and cozy cafe atmosphere. In addition to a wide range of coffee beverages, they offer an assortment of teas, pastries, sandwiches, and breakfast items, providing a variety of options for both coffee lovers and those looking for a quick bite to eat"
+    },
+    {
+        "name": "Jack in the Box",
+        "address": "1602 W University Dr, Edinburg, TX 78539",
+        "rating": "3.7",
+        "description of restaurant": "Jack in the Box is a popular fast-food chain known for its diverse menu of burgers, tacos, and other American fast-food favorites. They offer a wide range of items, including jumbo burgers, chicken sandwiches, tacos, and a variety of sides, along with a selection of soft drinks, milkshakes, and other beverages to accompany your meal."
+    },
+    {
+        "name": "IHOP",
+        "address": "2716 W University Dr, Edinburg, TX 78539",
+        "rating": "3.5",
+        "description of restaurant": "IHOP, or the International House of Pancakes, is a well-loved breakfast and brunch restaurant chain known for its extensive selection of pancakes, waffles, omelets, and other breakfast delights. They also offer a variety of lunch and dinner options, and their menu includes a range of coffee and beverage choices, making it a popular destination for those looking for breakfast at any time of the day."
+    },
+    {
+        "name": "Muelle 37",
+        "address": "517 E University Dr, Edinburg, TX 78539",
+        "rating": "3.9",
+        "description of restaurant": "Offers a delightful mix of coastal and Mexican cuisine. Their menu features an array of seafood dishes, tacos, ceviche, and traditional Mexican specialties, complemented by a selection of refreshing beverages, including margaritas, Mexican beer, and a range of soft drinks, providing a diverse dining experience with a coastal flair."
+    },
+    {
+        "name": "Obee's Mexican Restaurant",
+        "address": "321 W University Dr, Edinburg, TX 78541",
+        "rating": "4.6",
+        "description of restaurant": "Obee's Mexican Restaurant is a local gem in Edinburg, Texas, renowned for its authentic Mexican cuisine. Their menu offers a variety of traditional dishes such as tacos, enchiladas, fajitas, and burritos, complemented by classic Mexican beverages like horchata, agua fresca, and margaritas, providing a truly immersive Mexican dining experience."
+    },
+    {
+        "name": "El Pato Mexican Food",
+        "address": "1100 W University, Edinburg, TX 78539",
+        "rating": "3.7",
+        "description of restaurant": "El Pato is a charming Mexican restaurant known for its authentic cuisine and welcoming atmosphere. Their menu features a range of Mexican dishes, including tacos, enchiladas, burritos, and traditional specialties, often accompanied by a selection of beverages like horchata, aguas frescas, and classic Mexican sodas, offering a genuine taste of Mexico."
+    },
+    {
+        "name": "Tesoro's Cuisine",
+        "address": "717 E University Dr, Edinburg, TX 78539",
+        "rating": "5.0",
+        "description of restaurant": "Tesoro's Cuisine is a delightful restaurant located in Edinburg, Texas, offering a fusion of American and Mexican flavors. Their menu features a mix of classic American dishes, Tex-Mex favorites, and unique creations, often accompanied by a selection of beverages, including soft drinks, iced tea, and specialty cocktails, providing a diverse dining experience with a blend of tastes."
+    },
+    {
+        "name": "Carmelitas Restaurant",
+        "address": "1026 E University Dr, Edinburg, TX 78539",
+        "rating": "3.6",
+        "description of restaurant": "Cermelitas Restaurant is a local dining establishment in Edinburg, Texas, known for its Mexican cuisine and warm ambiance. Their menu features an array of traditional Mexican dishes, including tacos, enchiladas, and tamales, and they offer a selection of beverages such as horchata, Mexican sodas, and refreshing agua fresca to complement the authentic flavors of their food."
+    },
+    {
+        "name": "Quick Wok",
+        "address": "505 W University Dr, Edinburg, TX 78539",
+        "rating": "2.7",
+        "description of restaurant": "Offers a wide range of classic Chinese dishes. Their menu features items like General Tso's chicken, lo mein, and sweet and sour pork, and they typically serve a selection of soft drinks, Chinese teas, and sometimes offer alcoholic beverages like beer and wine to accompany your meal."
+    },
+    {
+        "name": "Starlite Burger",
+        "address": "1106 E University Dr, Edinburg, TX 78539",
+        "rating": "4.0",
+        "description of restaurant": "Known for its classic American fast food and friendly atmosphere. Their menu includes a variety of burgers, cheeseburgers, hot dogs, and sandwiches, and they offer a selection of beverages such as soft drinks, milkshakes, and classic sides like fries to complete your burger experience."
+    }
+]
